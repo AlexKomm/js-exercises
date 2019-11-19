@@ -1,3 +1,3 @@
-const binarySearch = require('./algos-1/binary-search.js');
+const mergeSort = require('./sorts/mergesort.js');
 
-console.log(binarySearch([1, 5, 20, 54, 67, 87, 90], 67));
+console.log(mergeSort([60, 30, 23, 24, 60, 88, 90, 10, 4550, 23]));
